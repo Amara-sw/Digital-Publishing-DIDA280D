@@ -1,0 +1,78 @@
+@font-face {
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	src: url("../font/Arial.ttf");
+}
+@font-face {
+	font-family: "Big Caslon";
+	font-style: normal;
+	font-weight: 500;
+	src: url("../font/BigCaslon.ttf");
+}
+.Base {
+font-family:Arial, sans-serif;
+font-weight:normal;
+font-style:normal;
+font-size:1.0em;
+hyphens:none;
+}
+
+.Heading_1 {
+font-weight:bold;
+font-size:1.666667em;
+text-align:center;
+}
+
+.Heading_2 {
+font-weight:bold;
+font-size:1.166667em;
+}
+
+.Body {
+font-size:1.0em;
+}
+
+.p1 {
+text-align:justify;
+}
+
+.p2 {
+text-align:justify;
+margin-top:1em;
+}
+
+.p4 {
+text-align:justify;
+margin-top:1em;
+font-weight:normal;
+font-style:normal;
+font-size:1.0em;
+letter-spacing:0;
+}
+
+.p3 {
+text-align:justify;
+margin-top:1em;
+}
+
+.p5 {
+text-align:justify;
+margin-top:1em;
+}
+
+.span1 {
+font-family:"Big Caslon", sans-serif;
+font-weight:normal;
+font-size:2.916667em;
+}
+
+.span3 {
+font-size:1.25em;
+}
+
+.span2 {
+font-weight:normal;
+font-size:1.25em;
+}
+

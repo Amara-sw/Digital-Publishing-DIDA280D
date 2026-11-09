@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<package version="3.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="pub-id" prefix="rendition: http://www.idpf.org/vocab/rendition/# ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/" xml:lang="en">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+<dc:identifier id="pub-id">urn:uuid:DC622D03-5451-4749-809A-6882C70B5387</dc:identifier>
+<dc:title>Untitled</dc:title>
+<dc:date>2026-11-09T16:50:50Z</dc:date>
+<meta property="dcterms:modified">2026-11-09T16:50:50Z</meta>
+<meta property="rendition:layout">reflowable</meta>
+<meta property="rendition:flow">paginated</meta>
+<dc:creator id="creator">Amara Sawadogo</dc:creator>
+<meta refines="#creator" property="role" scheme="marc:relators">aut</meta>
+<meta name="generator" content="Affinity 3.3.0.4850 MacOS (Sep 11 2026)"/>
+<dc:language>en</dc:language>
+<meta property="ibooks:specified-fonts">true</meta>
+</metadata>
+<manifest>
+<item id="Story1" href="Story1.xhtml" media-type="application/xhtml+xml"/>
+<item id="styles" href="css/styles.css" media-type="text/css"/>
+<item id="BigCaslon.ttf" href="font/BigCaslon.ttf" media-type="application/font-sfnt"/>
+<item id="Arial.ttf" href="font/Arial.ttf" media-type="application/font-sfnt"/>
+<item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+</manifest>
+<spine>
+<itemref idref="Story1"/>
+</spine>
+</package>
